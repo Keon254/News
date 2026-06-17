@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
-import { FileText, Eye, TrendingUp, Plus, Edit, AlertCircle } from 'lucide-react';
+import { FileText, Eye, TrendingUp, Plus, FileEdit as Edit, AlertCircle } from 'lucide-react';
 import { Button } from '@/components/Button';
 import { Loading } from '@/components/Loading';
 import type { Article } from '@/lib/types';

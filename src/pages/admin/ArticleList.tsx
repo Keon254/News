@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
-import { Plus, Search, Edit, Trash2, Eye } from 'lucide-react';
+import { Plus, Search, FileEdit as Edit, Trash2, Eye } from 'lucide-react';
 import { formatDistanceToNow, format } from 'date-fns';
 import { Button } from '@/components/Button';
 import { Input } from '@/components/Input';
